@@ -1,0 +1,23 @@
+body {
+  background-color: var(--color-dark);
+  font-family: "Signika", sans-serif;
+  color: var(--color-dark);
+}
+
+main {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+main ul {
+  display: flex;
+}
+
+main ul li svg {
+  width: 32px;
+  fill: var(--color-primary);
+  margin: 16px;
+}
