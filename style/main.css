@@ -2,6 +2,7 @@ body {
   background-color: var(--color-dark);
   font-family: "Signika", sans-serif;
   color: var(--color-dark);
+  background: url("../assets/wavey.svg");
 }
 
 main {
